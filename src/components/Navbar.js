@@ -52,7 +52,7 @@ function Navbar() {
 			    </LinkS>
 			</li>
 			<li className="nav-item">
-			    <LinkD to={{ pathname: 'http://explorer.cyberyen.org' }} className="nav-links" onClick={closeMobileMenu}>
+			    <LinkD to={{ pathname: 'http://explorer.cyberyen.org' }} className="nav-links" target='_blank' onClick={closeMobileMenu}>
 				EXPLORER
 			    </LinkD>
 			</li>
