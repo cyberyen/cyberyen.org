@@ -3,10 +3,10 @@ import './css/footer.css';
 import { Link } from 'react-router-dom';
 import {
   FaEnvelope,
-  SiMatrix,
   FaGithub,
   FaBook
 } from 'react-icons/fa';
+import { SiMatrix } from 'react-icons/si';
 
 function Footer() {
   return (
