@@ -3,9 +3,9 @@ import './css/footer.css';
 import { Link } from 'react-router-dom';
 import {
   FaEnvelope,
-  FaDiscord,
-  FaTwitter,
-  FaGithub
+  SiMatrix,
+  FaGithub,
+  FaBook
 } from 'react-icons/fa';
 
 function Footer() {
@@ -18,29 +18,21 @@ function Footer() {
 	  <small className='website-rights'>&copy; {new Date().getFullYear()} Cyberyen network</small>
 	  <div className='social-icons'>
 
-    <Link
-    className='social-icon-link'
-    onClick={() => window.location = 'mailto:contact@cyberyen.org'}
-    target='_blank'
-    aria-label='Mail'
-    >
-    <FaEnvelope />
-    </Link>
 	    <Link
 	      className='social-icon-link'
-	      to={{ pathname: '/' }}
+	      onClick={() => window.location = 'mailto:contact@cyberyen.org'}
 	      target='_blank'
-	      aria-label='Discord'
+	      aria-label='Mail'
 	    >
-	      <FaDiscord />
+	      <FaEnvelope />
 	    </Link>
 	    <Link
 	      className='social-icon-link'
-	      to={{ pathname: '/' }}
+	      to={{ pathname: 'https://matrix.to/#/cyberyen:matrix.org' }}
 	      target='_blank'
-	      aria-label='Twitter'
+	      aria-label='Matrix'
 	    >
-	      <FaTwitter />
+	      <SiMatrix />
 	    </Link>
 	    <Link
 	      className='social-icon-link'
@@ -50,7 +42,15 @@ function Footer() {
 	    >
 	      <FaGithub />
 	    </Link>
-	  </div>
+	    <Link
+	      className='social-icon-link'
+	      to={{ pathname: 'https://github.com/cyberyen/cyberyen/wiki'}}
+	      target='_blank'
+	      aria-label='Documentation'
+	    >
+	      <FaBook />
+	    </Link>
+	   </div>
 	</div>
       </section>
     </div>
