@@ -48,7 +48,7 @@ export const homeObjWallet = {
   topLine: 'C¥ WALLET',
   headline: 'TRANSACTIONS AND ACCOUNT BALANCE',
   description: 'Encrypted wallet synced with the Cyberyen blockchain to work with C¥s. With the Cyberyen wallet, you can view transactions and your account balance.',
-  buttonLabel: 'Learn More',
+  buttonLabel: 'Build it..',
   imgStart: '',
   img: 'images/wallet.png',
 };

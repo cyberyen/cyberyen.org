@@ -71,19 +71,19 @@ function Navbar() {
       <li className="nav-item">
       <LinkD
       className='nav-links'
-      to='/'
+      to={{ pathname: 'https://github.com/cyberyen/cyberyen/wiki' }}
       target='_blank'
       aria-label='Documentation'
       onClick={closeMobileMenu}>
       <FaBook />
       </LinkD>
-			</li>
+      </li>
 
-		    </ul>
-		</div>
-	    </div>
-	  </IconContext.Provider>
-	</>
+      </ul>
+      </div>
+      </div>
+      </IconContext.Provider>
+      </>
     )
 }
 
