@@ -28,7 +28,7 @@ function Footer() {
 	    </Link>
 	    <Link
 	      className='social-icon-link'
-	      to={{ pathname: 'https://matrix.to/#/cyberyen:matrix.org' }}
+	      to={{ pathname: 'https://matrix.to/#/#cyberyen:matrix.org' }}
 	      target='_blank'
 	      aria-label='Matrix'
 	    >
