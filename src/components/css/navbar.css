@@ -28,7 +28,7 @@
 
 .navbar-logo {
     color: rgb(104,104,104);
-    fontFamily: 'Raleway';
+    fontFamily: 'Courier New';
     justify-self: start;
     cursor: pointer;
     text-decoration: none;
@@ -161,5 +161,5 @@
   }
 
   .font-loader {
-    font-family: 'Raleway';
+    font-family: 'Courier New';
   }

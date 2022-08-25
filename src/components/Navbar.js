@@ -24,7 +24,7 @@ function Navbar() {
     return (
 	<>
 	<IconContext.Provider value={{ color: '#fff' }}>
-	    <div className="navbar" style={{fontFamily: 'Raleway'}} >
+	    <div className="navbar" style={{fontFamily: 'Courier New'}} >
       <div className="navbar-container container">
 
 		    <LinkS activeClass='active' to='home' smooth={true} offset={-200} duration={500} className="navbar-logo" onClick={closeMobileMenu}>
