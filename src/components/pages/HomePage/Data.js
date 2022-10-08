@@ -38,7 +38,7 @@ export const homeObjAbout = {
   lightTextDesc: false,
   topLine: '',
   headline: 'WHAT IS CYBERYEN?',
-  text:'Cyberyen is a peer-to-peer Internet currency that enables instant, near-zero cost payments to anyone in the world. Cyberyen is an open source, global payment network that is fully decentralized without any central authorities. Mathematics secures the network and empowers individuals to control their own finances. Cyberyen is a hybrid grown from the Litecoin MWEB fork with grafted Dogecoin block parameters, which is an expedient component for future blockchain development.',
+  text:'Cyberyen is a peer-to-peer Internet currency that enables instant, near-zero cost payments to anyone in the world. Cyberyen is an open source, global payment network that is fully decentralized without any central authorities. Mathematics secures the network and empowers individuals to control their own finances. Cyberyen is a hybrid grown from the Litecoin MWEB fork with grafted new block parameters, which is an expedient component for future blockchain development.',
 };
 
 export const homeObjWallet = {
