@@ -7956,7 +7956,7 @@ node-releases@^2.0.12:
   resolved "https://registry.yarnpkg.com/node-releases/-/node-releases-2.0.12.tgz#35627cc224a23bfb06fb3380f2b3afaaa7eb1039"
   integrity sha512-QzsYKWhXTWx8h1kIvqfnC++o0pEmpRQA/aenALsL2F4pqNVr7YzcdMlDij5WBnwftRbJCNJL/O7zdKaxKPHqgQ==
 
-node@18.11.10:
+node@18.12.00:
   version "18.12.0"
   resolved "https://registry.yarnpkg.com/node/-/node-18.12.0.tgz#7535eccb084b182324dbf1180bcc0647b16f7ef7"
   integrity sha512-WRLSphoK1RqmbEUvTHvLllJIur5IIeW7oIHt1SC6FMd0V6W+70izPU2/Re6cKqRCQwDnJUpD90gUyJbDXF+xlQ==
