@@ -44,7 +44,7 @@ function ThirdSection()
 			</div>
 		    </Col>
 		    <div className="contribute">
-			    <a href="https://github.com/cyberyen/cyberyen/" target="_blank" rel="noreferrer" className="normal-btn-with-icon"><span>Cyberyen Core</span> <img src={arrow}/></a>
+			    <a href="https://github.com/cyberyen/cyberyen/" target="_blank" rel="noreferrer" className="normal-btn-with-icon"><span>Cyberyen Core</span> <img src={arrow} alt="arrow" /></a>
 		    </div>
 		</Row>
 	    </Container>

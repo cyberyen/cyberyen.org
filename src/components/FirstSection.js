@@ -17,16 +17,16 @@ function FirstSection()
 			</div>
 			<p className="normal-p p-mt">Cyberyen [C¥] is the cryptocurrency for payments based on Blockchain Technology</p>
 			<div className="contribute">
-			<a href="https://github.com/cyberyen/cyberyen/" target="_blank" rel="noreferrer" className="normal-btn-with-icon"><span>Contribute</span> <img src={arrow}/></a>
+			<a href="https://github.com/cyberyen/cyberyen/" target="_blank" rel="noreferrer" className="normal-btn-with-icon"><span>Contribute</span> <img src={arrow} alt="arroe" /></a>
 			</div>
 			<div className="contribute">
-	<a href="https://github.com/cyberyen/cyberyen/releases/tag/v0.21.2.5" target="_blank" rel="noreferrer" className="normal-btn-with-icon"><span>Download<br/> Cyberyen Core 0.21.2.5</span> <img src={arrow}/></a>
+	<a href="https://github.com/cyberyen/cyberyen/releases/tag/v0.21.2.5" target="_blank" rel="noreferrer" className="normal-btn-with-icon"><span>Download<br/> Cyberyen Core 0.21.2.5</span> <img src={arrow} alt="arrow" /></a>
 			</div>
 		    </Col>
 		    <Col lg={6} md={6}>
 			<div className="c-img-section">
-			<img src={c} className="c-desktop"/>
-			<img src={cmobile} className="c-mobile"/>
+			<img src={c} alt="cy" className="c-desktop"/>
+			<img src={cmobile} alt="cy-mobile" className="c-mobile"/>
 
 			</div>
 		    </Col>

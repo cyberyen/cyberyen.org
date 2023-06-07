@@ -10,15 +10,15 @@ function Header() {
 	    <div className="custom-header">
 		<div className="head-flex">
 		    <div className="logo-section">
-			<img src={logo} />
+			<img src={logo} alt="logo" />
 		    </div>
-		    <img src={showicon} className="mobile-head-open" onClick={(e) => setIsShow(true)}/>
+		    <img src={showicon} alt="showicon" className="mobile-head-open" onClick={(e) => setIsShow(true)}/>
 		</div>
 		<div className="header-100-vh">
 		<div className={isShow ? "header-body nav-open" : "header-body nav-close"}>
 		    <div className="mobile-head">
-			<img src={logo} className="sm-logo"/>
-			<img src={closeicon} className="close-icon" onClick={(e) => setIsShow(false)}/>
+			<img src={logo} alt="logo" className="sm-logo"/>
+			<img src={closeicon} alt="closeicon" className="close-icon" onClick={(e) => setIsShow(false)}/>
 		    </div>
 		    <ul className="ul">
 			<li className="custom-order-3">

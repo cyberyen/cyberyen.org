@@ -16,7 +16,7 @@ function SecondSection()
 
 		    </Col>
 		    <div className="contribute">
-			    <a href="https://cypedia.cyberyen.org/" target="_blank" rel="noreferrer" className="normal-btn-with-icon"><span>More information</span> <img src={arrow}/></a>
+			    <a href="https://cypedia.cyberyen.org/" target="_blank" rel="noreferrer" className="normal-btn-with-icon"><span>More information</span> <img src={arrow} alt="arrow" /></a>
 		    </div>
 		</Row>
 	    </Container>
