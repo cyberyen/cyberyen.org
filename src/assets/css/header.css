@@ -18,7 +18,7 @@ header .header-body .ul{
     text-decoration: none;
     padding: 0.5rem 1rem;
     color: var(--white);
-    font-size: 13px;
+    font-size: 16px;
 }
 .header-body .ul li a:hover{
     color: var(--primary);
