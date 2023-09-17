@@ -26,14 +26,14 @@ function ThirdSection()
 			<div className="list-box">
 			    <h3 className="section-h3">MINING</h3>
 			    <h2 className="section-h2">Network support principle.</h2>
-			    <p>The block rewards are fixed. Miners will be awarded with 10000 new cyberyens starting from 600000 block. Cyberyen is therefore scheduled to produce unlymited amount cyberyens.</p>
+			    <p>The block rewards are fixed. Miners will be awarded with 10000 new cyberyens starting from 600000 block. Cyberyen is therefore scheduled to produce unlimited amount cyberyens.</p>
 			</div>
 		    </Col>
 		    <Col lg={6} md={6}>
 			<div className="list-box">
 			    <h3 className="section-h3">MWEB</h3>
 			    <h2 className="section-h2">Confidential transactions.</h2>
-			    <p>MimbleWimble Extension Block is provid users the option of sending confidential Cyberyen transactions, in which the amount being sent is only known between the sender and receiver, as well as the benefit of having private address balances and increasing Cyberyen’s transaction throughput.</p>
+			    <p>MimbleWimble Extension Block is provide users the option of sending confidential Cyberyen transactions, in which the amount being sent is only known between the sender and receiver, as well as the benefit of having private address balances and increasing Cyberyen’s transaction throughput.</p>
 			</div>
 		    </Col>
 		    <Col lg={6} md={6}>
